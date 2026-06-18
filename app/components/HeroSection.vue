@@ -15,7 +15,7 @@
                 </p>
                 <div class="mt-8 flex flex-wrap gap-3">
                     <a
-                        href="/daftar"
+                        href="https://dashboard.arthakula.web.id"
                         aria-label="Daftar gratis sekarang di Arthakula"
                         class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-white bg-teal-700 rounded-lg hover:bg-teal-800 transition-colors duration-200"
                     >

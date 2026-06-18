@@ -57,14 +57,14 @@
                 <!-- Auth Buttons -->
                 <div class="hidden md:flex items-center space-x-4">
                     <a
-                        href="/login"
+                        href="https://dashboard.arthakula.web.id"
                         aria-label="Masuk ke akun"
                         class="text-sm font-medium text-gray-500 hover:text-gray-900 transition-colors duration-200"
                     >
                         Masuk
                     </a>
                     <a
-                        href="/daftar"
+                        href="https://dashboard.arthakula.web.id"
                         aria-label="Daftar gratis sekarang"
                         class="inline-flex items-center px-4 py-2 text-sm font-medium text-white bg-teal-700 rounded-lg hover:bg-teal-800 transition-colors duration-200"
                     >
@@ -141,13 +141,13 @@
                     </a>
                     <div class="pt-2 border-t border-gray-100 space-y-1">
                         <a
-                            href="/login"
+                            href="https://dashboard.arthakula.web.id"
                             class="block px-3 py-2 rounded-lg text-sm font-medium text-gray-600 hover:bg-gray-50 transition-colors duration-200"
                         >
                             Masuk
                         </a>
                         <a
-                            href="/daftar"
+                            href="https://dashboard.arthakula.web.id"
                             aria-label="Daftar gratis"
                             class="block px-3 py-2 rounded-lg text-sm font-medium text-white bg-teal-700 hover:bg-teal-800 transition-colors duration-200"
                         >
