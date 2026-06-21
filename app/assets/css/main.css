@@ -60,6 +60,17 @@
     }
 }
 
+@media (prefers-reduced-motion: reduce) {
+    .animate-fade-in-up,
+    .animate-fade-in-down {
+        animation: none;
+        opacity: 1;
+    }
+    html {
+        scroll-behavior: auto;
+    }
+}
+
 html {
     scroll-behavior: smooth;
 }

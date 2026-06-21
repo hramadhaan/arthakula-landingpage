@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F766E"/>
+      <stop offset="50%" stop-color="#0D9488"/>
+      <stop offset="100%" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" rx="0" fill="url(#bg)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="1050" cy="100" r="300" fill="white" opacity="0.03"/>
+  <circle cx="150" cy="550" r="250" fill="white" opacity="0.04"/>
+  <circle cx="600" cy="700" r="350" fill="white" opacity="0.02"/>
+
+  <!-- Logo area -->
+  <rect x="490" y="155" width="220" height="220" rx="44" fill="white" opacity="0.12"/>
+  <rect x="502" y="167" width="196" height="196" rx="36" fill="white"/>
+
+  <!-- Logo "A" mountain -->
+  <path d="M600 200L640 285Q648 300 660 310L660 326L624 326L624 310L632 310L600 244L570 310L578 310L578 326L542 326L542 310Q552 300 560 285L600 200Z" fill="#0D9488"/>
+
+  <!-- App name -->
+  <text x="600" y="440" text-anchor="middle" fill="white" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="64" font-weight="700" letter-spacing="-0.02em">Arthakula</text>
+
+  <!-- Tagline -->
+  <text x="600" y="500" text-anchor="middle" fill="white" opacity="0.8" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="28" font-weight="400">Kelola Keuangan Keluarga Bersama</text>
+
+  <!-- URL -->
+  <text x="600" y="570" text-anchor="middle" fill="white" opacity="0.5" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="20" font-weight="500">arthakula.id</text>
+</svg>

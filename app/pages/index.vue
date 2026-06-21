@@ -4,6 +4,7 @@
         <TrustSection />
         <FeaturesSection />
         <CollaborationSection />
+        <GooglePlaySection />
         <CtaSection />
     </div>
 </template>
@@ -20,7 +21,7 @@ useHead({
         {
             name: "keywords",
             content:
-                "aplikasi catat keuangan keluarga gratis, pengelolaan keuangan rumah tangga, budgeting keluarga, pencatatan pengeluaran harian, aplikasi keuangan Indonesia, expense tracker, tabungan bersama, anggaran rumah tangga, catatan keuangan bersama pasangan",
+                "aplikasi catat keuangan keluarga gratis, pengelolaan keuangan rumah tangga, budgeting keluarga, pencatatan pengeluaran harian, aplikasi keuangan Indonesia, expense tracker, tabungan bersama, anggaran rumah tangga, catatan keuangan bersama pasangan, aplikasi android keuangan keluarga, aplikasi keuangan di google play",
         },
         {
             name: "robots",
@@ -50,6 +51,9 @@ useSchemaOrg([
                 answer: "Arthakula menggunakan enkripsi AES-256 untuk semua data keuangan Anda. Kami tidak menjual atau membagikan data pengguna ke pihak ketiga. Semua koneksi menggunakan HTTPS dan data disimpan di server bersertifikasi ISO 27001.",
             }),
         ],
+    }),
+    defineBreadcrumb({
+        itemListElement: [{ name: "Beranda", item: "/" }],
     }),
 ]);
 </script>
